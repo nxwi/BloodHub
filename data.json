@@ -69,6 +69,16 @@
          "district":"Malappuram",
          "state":"Kerala",
         "country": "India"
+      }, 
+      {
+         "name":"Mohammed abdul gafoor ",
+         "userName":"Mohammed abdul gafoor",
+         "phone":"8547053988",
+         "bloodGroup":"B+",
+         "address":"Shukriya mahal(H), kalathingal kondotty",
+         "district":"Malappuram",
+         "state":"Kerala",
+        "country": "India"
       }
    ]
 }
