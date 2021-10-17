@@ -31,11 +31,3 @@
     ]
 }
 ```
-
-### Update data.json with your information
-
-To format json and md file run the following commands from project folder before pull request
-
-yarn / npm install
-
-yarn format / npm run format
