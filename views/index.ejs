@@ -21,23 +21,23 @@
     <div class="container">
         <div class="row">
            
-            <% for(i=0;data.data.length >i;i++){%>
+            <% for(i=0;data.length >i;i++){%>
            <div class="cardHolder col-10 col-sm-8 col-md-6 col-lg-4 mx-auto">
-            <a class="gitLink" href="https://github.com/<%=data.dev[i].userName%>">
+            <a class="gitLink" href="https://github.com/<%=data[i].userName%>">
                 <div class="d-flex devCard">
                     
-                    <img class="images my-auto" src="https://avatars.githubusercontent.com/<%=data.dev[i].userName%>" alt="">
+                    <img class="images my-auto" src="https://avatars.githubusercontent.com/<%=data[i].userName%>" alt="">
                     
                     <div class="my-auto" style="padding: 5%;">
-                        <%=data.data[i].name%>
+                        <%=data[i].name%>
                         <br>
-                        <%=data.data[i].phone%>
+                        <%=data[i].phone%>
                         <br>
-                        <%=data.data[i].blood_group%>
+                        <%=data[i].bloodGroup%>
                         <br>
-                        <%=data.data[i].address%>
+                        <%=data[i].address%>
                         <br>
-                        <%=data.data[i].district%>, <%=data.data[i].state%>
+                        <%=data[i].district%>, <%=data[i].state%>
                         <br>
                     </div>
                 </div>
@@ -51,8 +51,3 @@
   </body>
 </html>
 
-+     "phone": "Phone Number",
-+     "blood_group": "blood group",
-+     "district": "district",
-+     "state": "state",
-+     "country": "country",
