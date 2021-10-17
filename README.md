@@ -7,7 +7,7 @@
 
 ## How To Contribute to database
 
-# [Go Web Site](https://abjs.github.io/students-blood-bank/)
+# [Go Web Site](https://github.io/)
 
 ```diff
 {
