@@ -2,12 +2,12 @@
 
 ```diff
 - Do Not Delete README.md  You can Improve the readability of the  document
-+ Update database.json file with your info
++ Update data.json file with your info
 ```
 
 ## How To Contribute to database
-
-# [Go Web Site](https://github.io/)
+<!-- 
+# [Go Web Site](https://github.io/) -->
 
 ```diff
 {
