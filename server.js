@@ -7,7 +7,7 @@ app.use(express.static(__dirname +"/public"))
 app.set('view engine', 'ejs')
 
 app.get(['/'], function(req,res){
- res.render('index',{data:data.data})
+ res.render('index',{data:data})
 })
 
 const PORT = process.env.PORT || 5000
