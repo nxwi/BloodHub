@@ -17,7 +17,7 @@
         "name": "Naswih Abdurahiman",
         "userName": "naxwh",
         "phone": "7994238436",
-        "blood_group": "A+",
+        "bloodGroup": "A+",
         "address": "KP(H) Vettupara",
         "district": "Malappuram",
         "state": "Kerala"
@@ -26,7 +26,7 @@
 +       "name": "Name",
 +       "userName": "User Name",
 +       "phone": "Phone Number",
-+       "blood_group": "Blood Group",
++       "bloodGroup": "Blood Group",
 +       "address": "Address",
 +       "district": "District",
 +       "state": "State"
