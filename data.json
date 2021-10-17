@@ -7,14 +7,6 @@
         "address": "KP(H) Vettupara",
         "district": "Malappuram",
         "state": "Kerala"
-     },
-     {
-        "name": "Name",
-        "phone": "Phone Number",
-        "blood_group": "blood group",
-        "address": "address",
-        "district": "district",
-        "state": "state"
       }
     ]
 }
