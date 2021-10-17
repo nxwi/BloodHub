@@ -61,24 +61,24 @@
         "country": "India"
       },
       {
-         "name":"Shamil Thaikkadan ",
-         "userName":"Shamilthaikkadan",
-         "phone":"8139035321",
-         "bloodGroup":"B+",
-         "address":"Thaikkadan,Bhoodan p.o pothukal",
-         "district":"Malappuram",
-         "state":"Kerala",
-        "country": "India"
+         "name": "Shamil Thaikkadan ",
+         "userName": "Shamilthaikkadan",
+         "phone": "8139035321",
+         "bloodGroup": "B+",
+         "address": "Thaikkadan,Bhoodan p.o pothukal",
+         "district": "Malappuram",
+         "state": "Kerala",
+         "country": "India"
       }, 
       {
-         "name":"Mohammed abdul gafoor ",
-         "userName":"Mohammed abdul gafoor",
-         "phone":"8547053988",
-         "bloodGroup":"B+",
-         "address":"Shukriya mahal(H), kalathingal kondotty",
-         "district":"Malappuram",
-         "state":"Kerala",
-        "country": "India"
+         "name": "Mohammed abdul gafoor ",
+         "userName": "Mohammed abdul gafoor",
+         "phone": "8547053988",
+         "bloodGroup": "B+",
+         "address": "Shukriya mahal(H), kalathingal kondotty",
+         "district": "Malappuram",
+         "state": "Kerala",
+         "country": "India"
       }
    ]
 }
