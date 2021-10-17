@@ -1,4 +1,43 @@
-*{
-    margin: 0;
-    padding: 0;
-}
+/** @format */
+
+body {
+    overflow-x: hidden;
+    font-family: "Scheherazade New", serif;
+    background:rgb(0, 4, 49);
+  }
+  
+  .images {
+    border-radius: 50%;
+    height: 7rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+    border: 2px solid rgb(255, 255, 255);
+  }
+  .head {
+    color: rgb(255, 255, 255);
+  }
+  .cardHolder {
+    margin-bottom: 2rem;
+    margin-top: 3rem;
+    position: relative;
+    
+  }
+  
+  .devCard {
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(146, 146, 146);
+    max-height: min-content;
+    min-height: 10rem;
+    border-radius: 12px;
+    filter: drop-shadow(8px 9px 3px #000000);
+  }
+  .gitLink {
+    color: black;
+    text-decoration: none;
+  }
+  
+  .gitLink:hover{
+    color: black;
+  }
+  
