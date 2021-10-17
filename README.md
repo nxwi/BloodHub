@@ -6,8 +6,8 @@
 ```
 
 ## How To Contribute to database
-<!-- 
-# [Go Web Site](https://github.io/) -->
+
+# [Go to WebSite](https://blood-hub.herokuapp.com/)
 
 ```diff
 {
