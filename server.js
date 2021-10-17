@@ -1,7 +1,7 @@
 const express = require('express')
 const path = require("path");
 const app = express()
-const data = require('./Data.json')
+const data = require('./data.json')
 const ejs = require('ejs')
 app.use(express.static(__dirname +"/public"))
 app.set('view engine', 'ejs')
