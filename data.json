@@ -99,6 +99,27 @@
          "district":"Malappuram",
          "state":"Kerala",
          "country": "India"
+      }, 
+
+      {
+
+         "name":"Muhammed naseeb ek",
+
+         "userName":"naseeb-ek",
+
+         "phone":"9645071201",
+
+         "bloodGroup":"A+",
+
+         "address":"Ellikkalla house karakkunnu 34. Karakkunnu (po) manjeri", 
+
+
+         "district":"Malappuram",
+
+         "state":"Kerala",
+
+         "country": "India" 
+
       }
    ]
 }
