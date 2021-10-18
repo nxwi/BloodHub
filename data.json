@@ -99,6 +99,16 @@
          "district":"Malappuram",
          "state":"Kerala",
          "country": "India"
+      },
+      {
+          "name":"Muhammed Binzid",
+         "userName":"Binzmhd",
+         "phone":"8606026794",
+         "bloodGroup":"B+",
+         "address":"Nambrathodi(H),Calicut university(post)Chettiyarmadu",
+         "district":"Malappuram",
+         "state":"Kerala",
+         "country": "India"
       }
    ]
 }
