@@ -1,74 +1,64 @@
 {
    "data":[
       {
-        "name":"Naswih Abdurahiman",
-        "userName":"naxwh",
-        "phone":"7994238436",
-        "bloodGroup":"A+",
-        "address":"KP(H) Vettupara",
-        "district":"Malappuram",
-        "state":"Kerala",
-        "country": "India"
-      },
-     {
-        "name":"Mohammed Roshan T",
-        "userName":"MohammedRoshanT",
-        "phone":"8848859106",
-        "bloodGroup":"A+",
-        "address":"Thankayathil(H), Kuzhaparamba, Mankada",
-        "district":"Malappuram",
-        "state":"Kerala",
-        "country": "India"
+         "name":"Naswih Abdurahiman",
+         "userName":"naxwh",
+         "phone":"7994238436",
+         "bloodGroup":"A+",
+         "address":"KP(H) Vettupara",
+         "district":"Malappuram",
+         "state":"Kerala",
+         "country": "India"
       },
       {
-        "name":"Sreelakshmi.k",
-        "userName":"Sreelakshmi54",
-        "phone":"8078429160",
-        "bloodGroup":"A+",
-        "address":"Sujish vihar,anjappura parappanangadi",
-        "district":"Malappuram",
-        "state":"kerala",
-        "country": "India"
+         "name":"Sreelakshmi.k",
+         "userName":"Sreelakshmi54",
+         "phone":"8078429160",
+         "bloodGroup":"A+",
+         "address":"Sujish vihar,anjappura parappanangadi",
+         "district":"Malappuram",
+         "state":"kerala",
+         "country": "India"
       },
       {
-        "name": "Afna Sherin",
-        "userName":"afna34",
-        "phone": "9037205889",
-        "bloodGroup": "B+",
-        "address": "Hajiyarakath,karingallathani parappanangadi",
-        "district": "Malappuram",
-        "state": "kerala",
-        "country": "India"
+         "name": "Afna Sherin",
+         "userName":"afna34",
+         "phone": "9037205889",
+         "bloodGroup": "B+",
+         "address": "Hajiyarakath,karingallathani parappanangadi",
+         "district": "Malappuram",
+         "state": "kerala",
+         "country": "India"
       }, 
       {
-        "name":"Shaheem PP",
-        "userName":"the-codeholic",
-        "phone":"6238905298",
-        "bloodGroup":"A+",
-        "address":"Kozhikode",
-        "district":"Kozhikode",
-        "state":"Kerala",
-        "country": "India"
+         "name":"Shaheem PP",
+         "userName":"the-codeholic",
+         "phone":"6238905298",
+         "bloodGroup":"A+",
+         "address":"Kozhikode",
+         "district":"Kozhikode",
+         "state":"Kerala",
+         "country": "India"
       },
       {
-        "name":"Abdul Hadi BP",
-        "userName":"hadibp",
-        "phone":"7034037653",
-        "bloodGroup":"AB+",
-        "address":"mathilinakayi(ho) ,vazhakkad",
-        "district":"Malappuram",
-        "state":"Kerala",
-        "country": "India"
+         "name":"Abdul Hadi BP",
+         "userName":"hadibp",
+         "phone":"7034037653",
+         "bloodGroup":"AB+",
+         "address":"mathilinakayi(ho) ,vazhakkad",
+         "district":"Malappuram",
+         "state":"Kerala",
+         "country": "India"
       },
       {
-        "name": "Mohammed Nihal",
-        "userName":"Nihal350",
-        "phone": "9497830078",
-        "bloodGroup": "A+",
-        "address": "Cheelangattu house, vazhayoor, vazhayoor East po",
-        "district": "Malappuram",
-        "state": "kerala",
-        "country": "India"
+         "name": "Mohammed Nihal",
+         "userName":"Nihal350",
+         "phone": "9497830078",
+         "bloodGroup": "A+",
+         "address": "Cheelangattu house, vazhayoor, vazhayoor East po",
+         "district": "Malappuram",
+         "state": "kerala",
+         "country": "India"
       },
       {
          "name": "Shamil Thaikkadan ",
@@ -91,14 +81,24 @@
          "country": "India"
       },
       {
-        "name": "Nihal Avulan ",
-        "userName": "Nihal-a",
-        "phone": "9048133817",
-        "bloodGroup": "O-",
-        "address": "Avulan(H), Kizhakkethala Malappuram",
-        "district": "Malappuram",
-        "state": "Kerala",
-        "country": "India"
-     }
+         "name": "Nihal Avulan ",
+         "userName": "Nihal-a",
+         "phone": "9048133817",
+         "bloodGroup": "O-",
+         "address": "Avulan(H), Kizhakkethala Malappuram",
+         "district": "Malappuram",
+         "state": "Kerala",
+         "country": "India"
+      },
+      {
+         "name":"Mohammed Roshan T",
+         "userName":"MohammedRoshanT",
+         "phone":"8848859106",
+         "bloodGroup":"A+",
+         "address":"Thankayathil(H), Kuzhaparamba, Mankada",
+         "district":"Malappuram",
+         "state":"Kerala",
+         "country": "India"
+      }
    ]
 }
