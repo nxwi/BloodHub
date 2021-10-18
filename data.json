@@ -101,7 +101,27 @@
          "country": "India"
       },
       {
-          "name":"Muhammed Binzid",
+         "name":"Muhammed naseeb ek",
+         "userName":"naseeb-ek",
+         "phone":"9645071201",
+         "bloodGroup":"A+",
+         "address":"Ellikkalla house karakkunnu 34. Karakkunnu (po) manjeri", 
+         "district":"Malappuram",
+         "state":"Kerala",
+         "country": "India" 
+      },
+      {
+         "name":"HISHAM.C ",
+         "userName":"HISHAMCHOKLY",
+         "phone":"9072226174",
+         "bloodGroup":"O+",
+         "address":"PARAYIL(H), KOLLAMCHINA, PERUVALLUR",
+         "district":"MALAPPURAM",
+         "state":"KERALA",
+         "country": "INDIA"
+      }'
+      {
+         "name":"Muhammed Binzid",
          "userName":"Binzmhd",
          "phone":"8606026794",
          "bloodGroup":"B+",
