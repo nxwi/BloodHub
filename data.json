@@ -140,6 +140,16 @@
          "state": "Kerala",
          "country": "India"
       },
+       {
+         "name": "Ahammed Hinas kk",
+         "userName": "hinasahammed",
+         "phone": "8137021939",
+         "bloodGroup": "B+",
+         "address": "valiyaparambil (H) kondotty p.o",
+         "district": "malappuram",
+         "state": "Kerala",
+         "country": "India"
+      },
       {
          "name": "Muhammed Swabeeh",
          "userName": "SWABEEH22",
@@ -147,16 +157,6 @@
          "bloodGroup": "O+",
          "address": "PK(H) Kozhikode",
          "district": "Kozhikode",
-         "state": "Kerala",
-         "country": "India"
-      },
-      {
-         "name": "Ahammed Hinas kk",
-         "userName": "hinasahammed",
-         "phone": "8137021939",
-         "bloodGroup": "B+",
-         "address": "valiyaparambil (H) kondotty p.o",
-         "district": "malappuram",
          "state": "Kerala",
          "country": "India"
       }
