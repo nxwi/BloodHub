@@ -23,19 +23,12 @@
       {
 
          "name":"hasil",
-
          "userName":"hasil9037",
-
          "phone":"9037770703",
-
          "bloodGroup":"B+",
-
          "address":"Sujish vihar,anjappura parappanangadi",
-
          "district":"Malappuram",
-
          "state":"kerala",
-
          "country": "India"
 
       },
@@ -89,22 +82,15 @@
          "state": "kerala",
          "country": "India"
       },
-      "name": "Akash cp",
-
+      {
+         "name": "Akash cp",
          "userName":"akashcp8943",
-
          "phone": "8138840643",
-
          "bloodGroup": "B+",
-
          "address": "poovadichalil house vazhakkad post",
-
          "district": "Malappuram",
-
          "state": "kerala",
-
          "country": "India"
-
       },
       {
          "name": "Shamil Thaikkadan ",
@@ -294,6 +280,15 @@
        "district": "Kannur",
        "state": "Kerala"
       },
+      {
+	 "name":"ALAN.S",
+         "userName":"ALAN.S",
+         "phone":"9745401049",
+         "bloodGroup":"O+",
+         "address":"Edavannappara",
+         "district":"Malappuram",
+         "state":"Kerala",
+         "country": "India"}
     ]
 
 }
