@@ -1,0 +1,55 @@
+import pandas as pd
+import numpy as np
+l=[]
+d=[]
+n=int(input("enter no of elements in series 1:"))
+for i in range(0,n):
+  e=int(input("enter element:"))
+r=int(input("enter no of elements in serirs 2"))
+for i in range(0,r):
+  e=int(input("enter element:"))
+  d.append(e)
+l=pd.Series(l)
+d=pd.Series(d)
+print("series 1 is:",l)
+print("series 2 is:",d)
+while True:
+  print("1.SUM OF SERIES")
+  print("2.MULTIPLY THE SERIES")
+  print("3.subtract the series")
+  print("4.add a series")
+  print("5.delete element from the series")
+  a=int(input("enter your choice:"))
+  if a==1:
+    print("summ of series is")
+    print(l+d)
+  elif a==2:
+    print("product of series")
+    print(l*d)
+  elif a==3:
+    print("difference of series")
+    print(l-d)
+  elif a==4:
+    v=l.append(d)
+    print("added series")
+    print(v)
+  elif a==5:
+    print("1.series")
+    print(l)
+    print("2.series")
+    print(d)
+    w=int(input("select which series to be deleted"))
+    s=int(input("enter index"))
+    if w==1:
+      l=l.drop(s)
+      print("the new series is:")
+      print(l)
+    if w==2:
+      d=d.drop(s)
+      print("new series is:")
+      print(d)
+  elif a==6:
+    print("bye")
+    break
+  else:
+    print("invalid choice")
